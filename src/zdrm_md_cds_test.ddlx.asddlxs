@@ -1,0 +1,6 @@
+@Metadata.layer: #CUSTOMER
+annotate view ZDRM_DD_CDS_TEST with
+{
+  @Search.defaultSearchElement: true
+  booking;
+}
